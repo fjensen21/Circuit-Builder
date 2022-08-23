@@ -5,6 +5,8 @@ SOURCE CODE PATH: pa4/src
 This project was developed for a Computer Architecture class. Given a description of
 a circuit in a text file, returns the truth table for that circuit. This code and implementation is completely my own.
 
+This program shows basic C knowledge including memory allocation, C pointers and data representation.
+
 
 Supports the following directives: 
 
