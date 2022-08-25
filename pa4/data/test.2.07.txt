@@ -1,5 +1,0 @@
-INPUT 4 A B C D
-OUTPUT 1 E
-XOR ab cd E
-XOR A B ab
-XOR C D cd
