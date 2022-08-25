@@ -1,0 +1,9 @@
+INPUT 8 IN1 IN2 IN3 IN4 IN5 IN6 IN7 IN8
+OUTPUT 1 OUT1
+OR IN1 IN2 temp1
+OR IN3 IN4 temp2
+OR IN5 IN6 temp3
+OR IN7 IN8 temp4
+XOR temp2 temp6 OUT1
+AND temp1 temp2 temp5
+AND temp3 temp4 temp6

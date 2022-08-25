@@ -1,0 +1,7 @@
+INPUT 4   w x y z
+OUTPUT 4  a b c d
+
+OR   w 0  a
+AND  x 1  b
+NAND y 1  c
+NOR  z 0  d
